@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">منصة العيلة</string>
+    <!-- حط رابط موقعك هنا (لازم يبدأ بـ https:// وينتهي بـ /) -->
+    <string name="site_url">https://YOUR-SITE.infinityfreeapp.com/</string>
+</resources>
